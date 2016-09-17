@@ -1,4 +1,4 @@
-package programmingInScala.chapter8
+package programmingInScala.chapter9
 
 object FileMatcher {
   private def filesHere = (new java.io.File(".")).listFiles
