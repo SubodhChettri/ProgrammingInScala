@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter8
+package programmingInScala.chapter8
 
 object SpecialFunctionCallForms extends App {
   def echo(args: String* ) =

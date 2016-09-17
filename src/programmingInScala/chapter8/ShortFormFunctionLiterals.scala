@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter8
+package programmingInScala.chapter8
 
 object ShortFormFunctionLiterals extends App {
   val someNumbers = List(-11, -10, -5, 0, 5, 10)

@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter6
+package programmingInScala.chapter6
 
 class Rational(n: Int, d: Int) {
   require(d != 0)

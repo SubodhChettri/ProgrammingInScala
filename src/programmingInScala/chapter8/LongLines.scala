@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter8
+package programmingInScala.chapter8
 
 import scala.io.Source
 

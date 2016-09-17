@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter7
+package programmingInScala.chapter7
 
 object gcdRecursive {
   def gcd(a: Int, b: Int): Int = {

@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter4
+package programmingInScala.chapter4
 import scala.collection.mutable
 
 class ChecksumAccumulator {

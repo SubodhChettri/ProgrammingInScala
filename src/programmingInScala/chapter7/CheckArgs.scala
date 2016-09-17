@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter7
+package programmingInScala.chapter7
 
 object CheckArgs {
   def main (args: Array[String])={

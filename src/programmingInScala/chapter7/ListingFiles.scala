@@ -1,4 +1,4 @@
-package ProgrammingInScala.Chapter7
+package programmingInScala.chapter7
 import java.nio.file.Paths
 import java.io.File
 
