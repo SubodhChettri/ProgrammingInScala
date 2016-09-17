@@ -1,6 +1,6 @@
 package programmingInScala.chapter9
 
-object SimplifingClientCode extends App {
+object SimplifyingClientCode extends App {
   def containsNeg(nums: List[Int]): Boolean = {
     var exists = false
     for (num <- nums)
