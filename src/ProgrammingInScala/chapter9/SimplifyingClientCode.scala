@@ -9,4 +9,5 @@ object SimplifyingClientCode extends App {
     exists
   }
   println(containsNeg(List(1, 2, 3, 4)))
+  println("TEst")
 }
